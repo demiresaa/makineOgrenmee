@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suleyman</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Data science / Data Analyst from Turkey</h3>
 
 - 🔭 I’m currently working on [Ml Ml practice](https://github.com/demiresaa?tab=repositories)
 
